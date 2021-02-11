@@ -22,7 +22,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "apexcharts": "^3.19.2",
+        "apexcharts": "^3.24.0",
         "moment": "^2.24.0",
         "sweetalert2": "^9.10.12",
         "vee-validate": "^2.2.15",
